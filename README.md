@@ -1,8 +1,7 @@
 EXAMEN FINAL MÓDULO. ADMINISTRACIÓN DE SERVICIOS WEB. 16/2/2015  
 MARIA ELVIRA MIRALLES I ALBERO  
 
-[paso 2](https://github.com/MARIAEL/EXAMEN-FINAL-MODULO-1#2-qu%C3%A9-es-un-cms-enumera-los-m%C3%A1s-populares-ventajas-del-uso-de-un-cms)
-	
+
 ##1.-Definir los siguientes términos: FTP, FTPS, SFTP  
 
 **FTP.-**  
